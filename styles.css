@@ -6,6 +6,7 @@ a {
     font-size: 1.1rem;
 }
 
+
 a:hover {
     color: #E8F0F2;
 }
@@ -92,13 +93,13 @@ p {
 .code-image {
     background-color: #A2DBFA;
     border-radius: 50%;
-    width: 75px;
+    width: 85px;
     float: left;
     margin-right: 30px;
 }
 
 .skill-row {
-    width: 50%;
+    width: 30%;
     margin: 100px auto;
     text-align: left;
     
@@ -107,8 +108,8 @@ p {
 .photo-image {
     background-color: #A2DBFA;
     border-radius: 50%;
-    width: 75px;
-    float: right;
+    width: 85px;
+    float: left;
     margin-right: 30px;
 }
 
