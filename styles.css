@@ -47,11 +47,11 @@ h3 {
 }
 
 hr {
-    border: dotted #A2DBFA 10px;
-    border-bottom: none;
-    width: 4%;
-    margin: 100px auto;
-    
+    border: dotted #A2DBFA 20px!important;
+    border-bottom: none !important;
+    margin: 15% auto 15% !important;
+    background-color:#E8F0F2 !important;
+    width: 20% !important;
     
 }
 
@@ -69,7 +69,7 @@ p {
 }
 
 .middle-container {
-    padding: 20px 0;
+    padding: 5% 20% ;
     background-color: #E8F0F2;
     
 }
@@ -82,41 +82,28 @@ p {
 
 
 .intro {
-    margin: auto;
+    margin: 5px;
     width: 25%;
     
 }
 
 
 
-.code-image {
+.image {
     background-color: #A2DBFA;
     border-radius: 50%;
-    width: 85px;
-    float: left;
-    margin-right: 30px;
+    width: 50px;
+  
 }
 
 .skill-row {
     width: 30%;
-    margin: 100px auto;
+    margin: 5% auto;
     text-align: left;
     
 }
 
-.photo-image {
-    background-color: #A2DBFA;
-    border-radius: 50%;
-    width: 85px;
-    float: left;
-    margin-right: 30px;
-}
-
-.photo-text {
-    margin-left: 30%;
-}
-
-.code-text {
+.text {
     margin-left: 30%;
 }
 
@@ -228,4 +215,24 @@ p {
     display: inline-block;
     margin-right: 1px;
     
+}
+
+
+.navbar {
+    background-color: #65c5f8;
+    color: white;
+
+}
+
+.container {
+    padding: 5%, auto;
+}
+
+.table {
+    table-layout: auto;
+    
+}
+
+.table td, .table th {
+    white-space: nowrap;
 }
