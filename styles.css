@@ -97,8 +97,6 @@ p {
 .skill-row {
     width: 30%;
     margin: 5% auto;
-    text-align: left;
-    
 }
 
 .contact-me {
@@ -207,9 +205,5 @@ p {
 
 .table td, .table th {
     white-space: nowrap;
+   
 }
-
-
-.text-center {
-    text-align: center;
-  }
