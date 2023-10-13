@@ -37,7 +37,7 @@ h2 {
     font-weight: normal;
     font-size: 2.5rem ;
     font-family: 'Montserrat', sans-serif;
-    padding-bottom: 10px;
+    padding-bottom: 50px;
 }
 
 
@@ -114,7 +114,7 @@ p {
 
 
 
-  .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color:#39A2DB !important;
 }
 
@@ -204,6 +204,11 @@ p {
 }
 
 .table td, .table th {
-    white-space: nowrap;
-   
+    white-space: nowrap;  
+}
+
+section:before {
+    height: 54px;
+    content: "";
+    display:block;
 }
