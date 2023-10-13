@@ -114,8 +114,10 @@ p {
 
 
 
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color:#39A2DB !important;
+.btn-primary {
+    background-color: #39A2DB !important;
+    border: none !important;
+    
 }
 
 .signature {
