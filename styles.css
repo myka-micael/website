@@ -114,30 +114,22 @@ p {
 
 
 
-.btn-primary {
+.btn {
     background-color: #39A2DB !important;
     border: none !important;
+    color: white !important;
     
+}
+
+.btn:hover {
+    background-color:#A2DBFA !important;
+   
 }
 
 .signature {
     font-size: 0.75rem;
     color: #E8F0F2;
     padding-top: 30px;
-}
-
-.graduation-image {
-    background-color: #A2DBFA;
-    border-radius: 50%;
-    width: 9%;
-
-}
-
-
-.email-image{
-    background-color: #A2DBFA;
-    border-radius: 50%;
-    width: 9%;
 }
 
 .contact-text {
