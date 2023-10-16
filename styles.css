@@ -206,3 +206,10 @@ section:before {
     content: "";
     display:block;
 }
+
+
+
+
+.img-slide {
+    width: 50% !important;
+}
