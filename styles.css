@@ -44,6 +44,7 @@ h2 {
 h3 {
     color: #39A2DB;
     font-family: 'Montserrat', sans-serif;
+    padding-top: 15px;
 }
 
 hr {
@@ -210,4 +211,17 @@ section:before {
 
 .fa-flag:hover {
     color: black;
+}
+
+
+.progress-ring__circle {
+    transition: 0.35s stroke-dashoffset;
+    transform: rotate(-90deg);
+    transform-origin: 50% 50%;
+    stroke: #39A2DB;
+    stroke-width: 4;
+  }
+
+.work-skills {
+    padding-bottom: 0px !important;
 }
