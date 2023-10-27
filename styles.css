@@ -235,3 +235,7 @@ section:before {
     height:40px;
     width:40px;
 }
+
+.fixed-width {
+    width: 200px; 
+  }
