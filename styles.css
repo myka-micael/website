@@ -220,8 +220,18 @@ section:before {
     transform-origin: 50% 50%;
     stroke: #39A2DB;
     stroke-width: 4;
+
   }
 
 .work-skills {
     padding-bottom: 0px !important;
+}
+
+.progress-ring__text {
+    transform: translate(-50%, -50%);
+  }
+
+.language-image{
+    height:40px;
+    width:40px;
 }
