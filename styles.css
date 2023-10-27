@@ -237,5 +237,9 @@ section:before {
 }
 
 .fixed-width {
-    width: 200px; 
+    width: 200px !important; 
+  }
+
+.fixed-width-top {
+    width: 140px !important; 
   }
